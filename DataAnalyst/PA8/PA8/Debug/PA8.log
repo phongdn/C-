@@ -1,0 +1,11 @@
+﻿  TransactionNode.cpp
+  Node.cpp
+  Main.cpp
+  DataAnalysis.cpp
+  BST.cpp
+d:\google drive\cpts 122 - spring\project assignments\pa8\pa8\bst.cpp(11): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating Code...
+d:\google drive\cpts 122 - spring\project assignments\pa8\pa8\bst.cpp(57): warning C4172: returning address of local variable or temporary: pReturn
+d:\google drive\cpts 122 - spring\project assignments\pa8\pa8\bst.cpp(68): warning C4172: returning address of local variable or temporary: pReturn
+  PA8.vcxproj -> D:\Google Drive\CPTS 122 - Spring\Project Assignments\PA8\Debug\PA8.exe
+  PA8.vcxproj -> D:\Google Drive\CPTS 122 - Spring\Project Assignments\PA8\Debug\PA8.pdb (Partial PDB)
